@@ -1,0 +1,7 @@
+build/bin
+node_modules
+frontend/dist
+server/config.properties
+
+# 编译产物
+kenaito-notebook
