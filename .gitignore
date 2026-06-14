@@ -4,3 +4,7 @@ frontend/dist
 
 # 编译产物
 kenaito-notebook
+
+# IDE / 工具缓存
+.idea/
+.qwen/
